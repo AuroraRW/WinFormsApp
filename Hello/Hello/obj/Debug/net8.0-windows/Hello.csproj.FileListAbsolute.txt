@@ -1,0 +1,16 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\bin\Debug\net8.0-windows\Hello.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\bin\Debug\net8.0-windows\Hello.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\bin\Debug\net8.0-windows\Hello.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\bin\Debug\net8.0-windows\Hello.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\bin\Debug\net8.0-windows\Hello.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\refint\Hello.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\Hello.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Hello\Hello\obj\Debug\net8.0-windows\ref\Hello.dll

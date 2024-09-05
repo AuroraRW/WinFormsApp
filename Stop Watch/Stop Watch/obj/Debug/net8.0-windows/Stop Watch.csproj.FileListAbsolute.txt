@@ -1,0 +1,16 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\bin\Debug\net8.0-windows\Stop Watch.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\bin\Debug\net8.0-windows\Stop Watch.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\bin\Debug\net8.0-windows\Stop Watch.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\bin\Debug\net8.0-windows\Stop Watch.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\bin\Debug\net8.0-windows\Stop Watch.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop_Watch.FormStopWatch.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\refint\Stop Watch.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\Stop Watch.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Stop Watch\Stop Watch\obj\Debug\net8.0-windows\ref\Stop Watch.dll
