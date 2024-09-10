@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControlsListBox/1.0.0": {
+        "runtime": {
+          "ControlsListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlsListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\bin\Debug\net8.0-windows\ControlsListBox.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\bin\Debug\net8.0-windows\ControlsListBox.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\bin\Debug\net8.0-windows\ControlsListBox.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\bin\Debug\net8.0-windows\ControlsListBox.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\bin\Debug\net8.0-windows\ControlsListBox.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\refint\ControlsListBox.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ControlsListBox.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ControlsListBox\ControlsListBox\obj\Debug\net8.0-windows\ref\ControlsListBox.dll
