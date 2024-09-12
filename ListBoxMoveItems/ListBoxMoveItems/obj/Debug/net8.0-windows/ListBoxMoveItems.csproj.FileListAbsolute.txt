@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\bin\Debug\net8.0-windows\ListBoxMoveItems.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\bin\Debug\net8.0-windows\ListBoxMoveItems.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\bin\Debug\net8.0-windows\ListBoxMoveItems.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\bin\Debug\net8.0-windows\ListBoxMoveItems.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\bin\Debug\net8.0-windows\ListBoxMoveItems.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\refint\ListBoxMoveItems.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ListBoxMoveItems.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\ListBoxMoveItems\ListBoxMoveItems\obj\Debug\net8.0-windows\ref\ListBoxMoveItems.dll
