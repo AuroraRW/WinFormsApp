@@ -1,0 +1,33 @@
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.exe
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza_Order.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\refint\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\WinForm\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\ref\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\bin\Debug\net8.0-windows\Pizza Order.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza_Order.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\refint\Pizza Order.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\Pizza Order.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Pizza Order\Pizza Order\obj\Debug\net8.0-windows\ref\Pizza Order.dll
