@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\bin\Debug\net8.0-windows\PrebuiltDialogs.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\bin\Debug\net8.0-windows\PrebuiltDialogs.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\bin\Debug\net8.0-windows\PrebuiltDialogs.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\bin\Debug\net8.0-windows\PrebuiltDialogs.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\bin\Debug\net8.0-windows\PrebuiltDialogs.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\refint\PrebuiltDialogs.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\PrebuiltDialogs.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\PrebuiltDialogs\PrebuiltDialogs\obj\Debug\net8.0-windows\ref\PrebuiltDialogs.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrebuiltDialogs", "PrebuiltDialogs\PrebuiltDialogs.csproj", "{52EB091A-6BE3-4E41-BF10-CECFE3DD6992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52EB091A-6BE3-4E41-BF10-CECFE3DD6992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EB091A-6BE3-4E41-BF10-CECFE3DD6992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EB091A-6BE3-4E41-BF10-CECFE3DD6992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EB091A-6BE3-4E41-BF10-CECFE3DD6992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20CEE80-4D5B-4E89-B112-CA360CA4D9AE}
+	EndGlobalSection
+EndGlobal

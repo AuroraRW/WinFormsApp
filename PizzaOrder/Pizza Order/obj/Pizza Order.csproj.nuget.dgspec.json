@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Pizza Order\\Pizza Order\\Pizza Order.csproj": {}
+    "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PizzaOrder\\Pizza Order\\Pizza Order.csproj": {}
   },
   "projects": {
-    "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Pizza Order\\Pizza Order\\Pizza Order.csproj": {
+    "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PizzaOrder\\Pizza Order\\Pizza Order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Pizza Order\\Pizza Order\\Pizza Order.csproj",
+        "projectUniqueName": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PizzaOrder\\Pizza Order\\Pizza Order.csproj",
         "projectName": "Pizza Order",
-        "projectPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Pizza Order\\Pizza Order\\Pizza Order.csproj",
+        "projectPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PizzaOrder\\Pizza Order\\Pizza Order.csproj",
         "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Pizza Order\\Pizza Order\\obj\\",
+        "outputPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PizzaOrder\\Pizza Order\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",
