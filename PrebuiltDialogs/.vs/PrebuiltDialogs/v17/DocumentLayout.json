@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PrebuiltDialogs\\PrebuiltDialogs\\Form1.cs",
-              "RelativeDocumentMoniker": "PrebuiltDialogs\\Form1.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PrebuiltDialogs\\PrebuiltDialogs\\Form1.cs",
-              "RelativeToolTip": "PrebuiltDialogs\\Form1.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwFsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T03:32:06.489Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,7 +29,21 @@
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PrebuiltDialogs\\PrebuiltDialogs\\Form1.cs [Design]",
               "RelativeToolTip": "PrebuiltDialogs\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T03:30:52.651Z"
+              "WhenOpened": "2024-09-19T03:30:52.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PrebuiltDialogs\\PrebuiltDialogs\\Form1.cs",
+              "RelativeDocumentMoniker": "PrebuiltDialogs\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\PrebuiltDialogs\\PrebuiltDialogs\\Form1.cs",
+              "RelativeToolTip": "PrebuiltDialogs\\Form1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:32:06.489Z",
+              "EditorCaption": ""
             }
           ]
         }

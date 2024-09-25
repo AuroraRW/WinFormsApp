@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\refint\Sound.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\ref\Sound.dll

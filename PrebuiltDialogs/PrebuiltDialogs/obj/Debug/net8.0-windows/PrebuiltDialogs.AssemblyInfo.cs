@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrebuiltDialogs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da6b20c6a2a55384796eea5fa130a661d5a2a06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b158e0b1fb8ae32f3e9925f820564f1de5ad771")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrebuiltDialogs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrebuiltDialogs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
