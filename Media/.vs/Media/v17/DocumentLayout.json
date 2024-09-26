@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0847CBED-1387-478D-B6BD-46EB70A400F9}|Media\\Media.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0847CBED-1387-478D-B6BD-46EB70A400F9}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0847CBED-1387-478D-B6BD-46EB70A400F9}|Media\\Media.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0847CBED-1387-478D-B6BD-46EB70A400F9}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\Media\\Form1.cs",
+              "RelativeToolTip": "Media\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:20:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Media\\Media\\Form1.cs [Design]",
+              "RelativeToolTip": "Media\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:09:53.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
