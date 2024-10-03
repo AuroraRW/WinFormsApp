@@ -11,3 +11,5 @@
 ### 9. Image
 ### 10. Sound
 ### 11. Media
+### 12. GDI+
+### 13. Login Control

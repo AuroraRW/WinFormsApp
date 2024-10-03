@@ -13,7 +13,10 @@ namespace Sound
             // _soundPlayer = new SoundPlayer("clapping.wav");
 
             //_soundPlayer = new SoundPlayer("..\\..\\..\\..\\resource\\clapping.wav");
-            _soundPlayer = new SoundPlayer(@"..\..\..\..\resource\clapping.wav");
+            //_soundPlayer = new SoundPlayer(@"..\..\..\..\resource\clapping.wav");
+
+            // add resource
+            _soundPlayer = new SoundPlayer(Properties.Resources.clapping);
         }
 
         private void chkPlay_CheckedChanged(object sender, EventArgs e)

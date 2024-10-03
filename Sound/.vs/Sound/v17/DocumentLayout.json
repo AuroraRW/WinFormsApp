@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\sound\\sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|solutionrelative:sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|solutionrelative:sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\sound\\sound\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|solutionrelative:sound\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\sound\\sound\\sound.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|solutionrelative:sound\\sound.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\sound\\sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B1BC4B-9EBE-46C2-BAAD-7383BF9C9805}|Sound\\Sound.csproj|solutionrelative:sound\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Sound\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Properties\\Resources.resx",
+              "RelativeToolTip": "Sound\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-01T02:00:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sound",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Sound.csproj",
+              "RelativeDocumentMoniker": "Sound\\Sound.csproj",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Sound.csproj",
+              "RelativeToolTip": "Sound\\Sound.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T02:00:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Form1.cs",
               "RelativeDocumentMoniker": "Sound\\Form1.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Form1.cs",
               "RelativeToolTip": "Sound\\Form1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T04:22:57.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Form1.cs",
               "RelativeDocumentMoniker": "Sound\\Form1.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\Sound\\Sound\\Form1.cs [Design]",
               "RelativeToolTip": "Sound\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:18:05.992Z"
+              "WhenOpened": "2024-09-24T04:18:05.992Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

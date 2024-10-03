@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\bin\Debug\net8.0-windows\GDI.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\bin\Debug\net8.0-windows\GDI.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\bin\Debug\net8.0-windows\GDI.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\bin\Debug\net8.0-windows\GDI.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\bin\Debug\net8.0-windows\GDI.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\refint\GDI.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\GDI.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\GDI\GDI\obj\Debug\net8.0-windows\ref\GDI.dll

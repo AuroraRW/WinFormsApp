@@ -4,6 +4,7 @@ C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\b
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.dll
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\bin\Debug\net8.0-windows\Sound.pdb
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.Properties.Resources.resources
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.csproj.GenerateResource.cache
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\Sound\Sound\obj\Debug\net8.0-windows\Sound.AssemblyInfoInputs.cache
