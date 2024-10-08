@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\logincontrol\\logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\logincontrol\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\logincontrol\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\logincontrol\\logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC76E56B-1933-4D29-8BA3-A6E17FBD0694}|LoginControl\\LoginControl.csproj|solutionrelative:logincontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,32 +31,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\Form1.cs",
-              "RelativeDocumentMoniker": "LoginControl\\Form1.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\Form1.cs",
-              "RelativeToolTip": "LoginControl\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:02:59.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginControl.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs",
-              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs",
-              "RelativeToolTip": "LoginControl\\LoginControl.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwBEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:52:07.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\Form1.cs",
               "RelativeDocumentMoniker": "LoginControl\\Form1.cs",
@@ -68,14 +42,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LoginControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs",
               "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs [Design]",
               "RelativeToolTip": "LoginControl\\LoginControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:00:48.855Z"
+              "WhenOpened": "2024-10-03T04:00:48.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\Form1.cs",
+              "RelativeToolTip": "LoginControl\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:02:59.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginControl.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl\\LoginControl.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LoginControl\\LoginControl\\LoginControl.cs",
+              "RelativeToolTip": "LoginControl\\LoginControl.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:52:07.084Z",
+              "EditorCaption": ""
             }
           ]
         }

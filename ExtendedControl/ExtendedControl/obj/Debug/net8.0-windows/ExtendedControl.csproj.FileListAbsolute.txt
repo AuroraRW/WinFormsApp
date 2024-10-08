@@ -1,0 +1,16 @@
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\bin\Debug\net8.0-windows\ExtendedControl.exe
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\bin\Debug\net8.0-windows\ExtendedControl.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\bin\Debug\net8.0-windows\ExtendedControl.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\bin\Debug\net8.0-windows\ExtendedControl.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\bin\Debug\net8.0-windows\ExtendedControl.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\refint\ExtendedControl.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ExtendedControl.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\ExtendedControl\ExtendedControl\obj\Debug\net8.0-windows\ref\ExtendedControl.dll
