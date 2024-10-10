@@ -1,0 +1,16 @@
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\bin\Debug\net8.0-windows\DrawButton.exe
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\bin\Debug\net8.0-windows\DrawButton.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\bin\Debug\net8.0-windows\DrawButton.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\bin\Debug\net8.0-windows\DrawButton.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\bin\Debug\net8.0-windows\DrawButton.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\refint\DrawButton.dll
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.pdb
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\DrawButton.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\Desktop\button\DrawButton\DrawButton\obj\Debug\net8.0-windows\ref\DrawButton.dll

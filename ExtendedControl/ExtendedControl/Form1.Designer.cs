@@ -80,8 +80,10 @@
             // 
             // dynamicTextBox2
             // 
+            dynamicTextBox2.BackColor = Color.White;
             dynamicTextBox2.CharacterCasing = CharacterCasing.Upper;
-            dynamicTextBox2.Location = new Point(399, 330);
+            dynamicTextBox2.ForeColor = Color.Black;
+            dynamicTextBox2.Location = new Point(381, 348);
             dynamicTextBox2.MaxLength = 10;
             dynamicTextBox2.Name = "dynamicTextBox2";
             dynamicTextBox2.PlaceholderText = "Please input";

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\",
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\desktop\\extendedcontrol\\extendedcontrol\\dynamictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\dynamictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\extendedcontrol\\extendedcontrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\desktop\\extendedcontrol\\extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\desktop\\extendedcontrol\\extendedcontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\extendedcontrol\\extendedcontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\desktop\\extendedcontrol\\extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\extendedcontrol\\extendedcontrol\\dynamictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\dynamictextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\desktop\\extendedcontrol\\extendedcontrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\extendedcontrol\\extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB9976C-A022-457C-944D-DD33ADD38C0C}|ExtendedControl\\ExtendedControl.csproj|solutionrelative:extendedcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DynamicTextBox.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\DynamicTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\DynamicTextBox.cs",
               "RelativeDocumentMoniker": "ExtendedControl\\DynamicTextBox.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\DynamicTextBox.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\DynamicTextBox.cs",
               "RelativeToolTip": "ExtendedControl\\DynamicTextBox.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAArAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T16:41:59.002Z",
+              "WhenOpened": "2024-10-08T16:41:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\CustomButton.cs",
+              "RelativeDocumentMoniker": "ExtendedControl\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\CustomButton.cs",
+              "RelativeToolTip": "ExtendedControl\\CustomButton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:06:43.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CustomButton.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\CustomButton.cs",
-              "RelativeDocumentMoniker": "ExtendedControl\\CustomButton.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\CustomButton.cs",
-              "RelativeToolTip": "ExtendedControl\\CustomButton.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvxAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T16:06:43.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.cs",
               "RelativeDocumentMoniker": "ExtendedControl\\Form1.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.cs",
               "RelativeToolTip": "ExtendedControl\\Form1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCwAAAANAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T15:54:05.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.cs",
               "RelativeDocumentMoniker": "ExtendedControl\\Form1.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.cs [Design]",
               "RelativeToolTip": "ExtendedControl\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:50:28.937Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-08T15:50:28.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "ExtendedControl\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\Form1.Designer.cs",
               "RelativeToolTip": "ExtendedControl\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T16:28:16.862Z",
               "EditorCaption": ""

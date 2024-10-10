@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\ExtendedControl.csproj",
+      "projectUniqueName": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\ExtendedControl.csproj",
       "projectName": "ExtendedControl",
-      "projectPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\ExtendedControl.csproj",
+      "projectPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\ExtendedControl.csproj",
       "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\Desktop\\ExtendedControl\\ExtendedControl\\obj\\",
+      "outputPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ExtendedControl\\ExtendedControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",
