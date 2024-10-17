@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\linq2\\linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|solutionrelative:linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\linq2\\linq2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|solutionrelative:linq2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\linq2\\linq2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|solutionrelative:linq2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\linq2\\linq2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D83CE20-8152-4A4E-9613-1CF2AAA224AB}|LINQ2\\LINQ2.csproj|solutionrelative:linq2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Department.cs",
+              "RelativeDocumentMoniker": "LINQ2\\Department.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Department.cs",
+              "RelativeToolTip": "LINQ2\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:57:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Data.cs",
+              "RelativeDocumentMoniker": "LINQ2\\Data.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Data.cs",
+              "RelativeToolTip": "LINQ2\\Data.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowC4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:56:37.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ2\\Employee.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Employee.cs",
+              "RelativeToolTip": "LINQ2\\Employee.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:56:00.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ2\\Program.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\LINQ2\\LINQ2\\Program.cs",
+              "RelativeToolTip": "LINQ2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:53:23.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
