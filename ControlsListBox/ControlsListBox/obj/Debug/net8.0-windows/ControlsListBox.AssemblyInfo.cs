@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlsListBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708621704f4c5967ede4e444951a7e8fd2262e0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcc4856d8f3bc00775bb9bd8be386abebcbb442b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlsListBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlsListBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

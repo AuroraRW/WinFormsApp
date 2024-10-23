@@ -1,0 +1,15 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\bin\Debug\net8.0\LINQ3.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\bin\Debug\net8.0\LINQ3.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\bin\Debug\net8.0\LINQ3.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\bin\Debug\net8.0\LINQ3.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\bin\Debug\net8.0\LINQ3.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\refint\LINQ3.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\LINQ3.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\LINQ3\LINQ3\obj\Debug\net8.0\ref\LINQ3.dll

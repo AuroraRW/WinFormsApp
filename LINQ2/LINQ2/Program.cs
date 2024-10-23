@@ -187,7 +187,7 @@ namespace LINQ2
             //if (result == 0 && !integerList.Contains(0))
             //{
             //    Console.WriteLine("There are no even numbers in the collection");
-                
+
             //}
             //else
             //{
@@ -214,7 +214,7 @@ namespace LINQ2
             ////If more than one element satisfies the condition, it throws an InvalidOperationException.
 
 
-            //var emp = employeeList.SingleOrDefault(e=>e.DepartmentId==3);
+            //var emp = employeeList.SingleOrDefault(e => e.DepartmentId == 3);
 
             //if (emp != null)
             //{
