@@ -19,7 +19,7 @@ namespace LINQ3
                 LastName = "Jones",
                 AnnualSalary = 60000.3m,
                 IsManager = true,
-                DepartmentId = 1
+                DepartmentId = 3
             };
             employees.Add(employee);
             employee = new Employee

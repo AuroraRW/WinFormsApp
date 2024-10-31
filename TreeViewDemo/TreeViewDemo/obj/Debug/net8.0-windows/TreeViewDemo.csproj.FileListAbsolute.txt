@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\bin\Debug\net8.0-windows\TreeViewDemo.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\bin\Debug\net8.0-windows\TreeViewDemo.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\bin\Debug\net8.0-windows\TreeViewDemo.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\bin\Debug\net8.0-windows\TreeViewDemo.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\bin\Debug\net8.0-windows\TreeViewDemo.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\refint\TreeViewDemo.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\TreeViewDemo.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\TreeViewDemo\TreeViewDemo\obj\Debug\net8.0-windows\ref\TreeViewDemo.dll

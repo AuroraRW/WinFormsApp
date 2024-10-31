@@ -1,0 +1,17 @@
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\bin\Debug\net8.0-windows\DataBinding.exe
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\bin\Debug\net8.0-windows\DataBinding.deps.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\bin\Debug\net8.0-windows\DataBinding.runtimeconfig.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\bin\Debug\net8.0-windows\DataBinding.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\bin\Debug\net8.0-windows\DataBinding.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.Form1.resources
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.csproj.GenerateResource.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.AssemblyInfoInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.AssemblyInfo.cs
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.sourcelink.json
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\refint\DataBinding.dll
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.pdb
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\DataBinding.genruntimeconfig.cache
+C:\Users\awang\OneDrive - Bow Valley College\2024Fall\Desktop\code\DataBinding\DataBinding\obj\Debug\net8.0-windows\ref\DataBinding.dll

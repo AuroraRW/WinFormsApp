@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\treeviewdemo\\treeviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|solutionrelative:treeviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\treeviewdemo\\treeviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|solutionrelative:treeviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\treeviewdemo\\treeviewdemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|solutionrelative:treeviewdemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\treeviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|solutionrelative:treeviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\treeviewdemo\\treeviewdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB92D97-98E9-4EDE-A1E7-EBCB2CE2186F}|TreeViewDemo\\TreeViewDemo.csproj|solutionrelative:treeviewdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "TreeViewDemo\\Employee.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Employee.cs",
+              "RelativeToolTip": "TreeViewDemo\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:45:51.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Department.cs",
+              "RelativeDocumentMoniker": "TreeViewDemo\\Department.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Department.cs",
+              "RelativeToolTip": "TreeViewDemo\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:45:38.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Data.cs",
+              "RelativeDocumentMoniker": "TreeViewDemo\\Data.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Data.cs",
+              "RelativeToolTip": "TreeViewDemo\\Data.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:45:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "TreeViewDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Form1.cs",
+              "RelativeToolTip": "TreeViewDemo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:57:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "TreeViewDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\TreeViewDemo\\TreeViewDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "TreeViewDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:57:29.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
