@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\listviewdemo\\listviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|solutionrelative:listviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\listviewdemo\\listviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|solutionrelative:listviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\listviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|solutionrelative:listviewdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\listviewdemo\\listviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|solutionrelative:listviewdemo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F8647AF-DEB4-45F5-95F7-9FA9CFC209D9}|ListViewDemo\\ListViewDemo.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\listviewdemo\\listviewdemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "ListViewDemo\\Form1.Designer.cs",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ListViewDemo\\Form1.Designer.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAMwDMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:39:27.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:39:27.999Z"
             },
             {
               "$type": "Document",
@@ -75,19 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Data.cs",
               "RelativeDocumentMoniker": "ListViewDemo\\Data.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Data.cs",
               "RelativeToolTip": "ListViewDemo\\Data.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAIwFgAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:31:58.963Z"
+              "WhenOpened": "2024-10-29T04:31:58.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Form1.cs",
               "RelativeDocumentMoniker": "ListViewDemo\\Form1.cs",
@@ -100,15 +100,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Form1.cs",
               "RelativeDocumentMoniker": "ListViewDemo\\Form1.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\ListViewDemo\\ListViewDemo\\Form1.cs [Design]",
               "RelativeToolTip": "ListViewDemo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:29:32.519Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T04:29:32.519Z"
             }
           ]
         }

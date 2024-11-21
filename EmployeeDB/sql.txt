@@ -1,0 +1,11 @@
+INSERT INTO Departments (ShortName, LongName) VALUES
+('HR', 'Human Resources'),
+('FN', 'Finance'),
+('TE', 'Technology');
+
+
+INSERT INTO Employees (FirstName, LastName, AnnualSalary, IsManager, DepartmentId) VALUES
+('Bob', 'Jones', 60000.30, 1, 1),
+('Sarah', 'Jameson', 80000.10, 1, 2),
+('Douglas', 'Roberts', 40000.20, 0, 2),
+('Jane', 'Stevens', 30000.20, 0, 2);
