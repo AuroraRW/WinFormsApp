@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\DataBinding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\DataBinding\\databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\databinding\\databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\databinding\\databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F90915E-BC1A-4FDD-9E3B-E1231EF13776}|DataBinding\\DataBinding.csproj|c:\\users\\awang\\onedrive - bow valley college\\2024fall\\desktop\\code\\databinding\\databinding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\DataBinding\\DataBinding\\Form1.cs",
               "RelativeDocumentMoniker": "DataBinding\\Form1.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\DataBinding\\DataBinding\\Form1.cs",
               "RelativeToolTip": "DataBinding\\Form1.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAApwEUAAABKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T18:27:19.384Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2024Fall\\Desktop\\code\\DataBinding\\DataBinding\\Form1.cs",
               "RelativeDocumentMoniker": "DataBinding\\Form1.cs",
